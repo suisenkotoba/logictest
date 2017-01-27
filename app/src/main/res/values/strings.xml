@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Logic Test</string>
+    <string name="start">Start Quiz</string>
+    <string name="hg_scr">High Score</string>
+    <string name="credit">Credit</string>
+    <string name="ext">Exit</string>
+    <string name="cat1">Numerical \nTest</string>
+    <string name="cat2">Verbal \nTest</string>
+    <string name="cat3">Logical \nTest</string>
+    <string name="cat4">Spatial \nTest</string>
+    <string name="ar_back">Back</string>
+    <string name="ar_frd">Forward</string>
+    <string name="icon_app">icon</string>
+    <string name="boku">logicTest</string>
+    <string name="res">Summary</string>
+    <string name="pic">creditpic</string>
+    <string name="newscr">New High Score</string>
+</resources>

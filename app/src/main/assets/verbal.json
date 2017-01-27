@@ -1,0 +1,256 @@
+{
+  "quizzes" : [
+    {
+      "question" : "Supir : Mobil",
+      "options" : ["Pesawat : Pilot","Kuda : Pedati","Masinis : Kereta Api","Delman : Kusir","Pilot : Masinis"],
+      "answer" : 2
+    },
+    {
+      "question" : "Pikiran : Otak",
+      "options" : ["Buku : Printer","Kata-kata : Lisan","Komputer : Ketikan","Awan : Langit","Hujan : Uap"],
+      "answer" : 1
+    },
+    {
+      "question" : "Dompet : Uang",
+      "options" : ["Gunung : Harimau","Tas sekolah : Buku","Laut : Garam","Burung : Sangkar","Kandang : Ayam"],
+      "answer" : 1
+    },
+    {
+      "question" : "Agama : Atheis",
+      "options" : ["Sandal : Sakit kaki","Tali : Jatuh","Menikah : Bujang","Antena : Sinyal","Buku : Bodoh"],
+      "answer" : 2
+    },
+    {
+      "question" : "Pesawat : Avtur",
+      "options" : ["Radio : Listrik","Sepeda motor : Bensin","Pedati : Kuda","Hand phone : Baterai","Tape mobil : Accu"],
+      "answer" : 1
+    },
+    {
+      "question" : "Pari : Ikan",
+      "options" : ["Gandum : Teri","Mangga : Manis","Jambu : Biji","Bayam : Sayur","Burung : Ayam"],
+      "answer" : 3
+    },
+    {
+      "question" : "Pizza : Gandum",
+      "options" : ["Rumah : Tukang","Genteng : Tanah liat","Patung : Pemahat","Gambar : Pelukis","Skripsi : Buku"],
+      "answer" : 1
+    },
+    {
+      "question" : "Moderen : Tradisional",
+      "options" : ["Roket : Rudal Scud","Ferrari : Fiat","Pesawat : Sepeda motor","Mobil : Pedati","TV : VCD Player"],
+      "answer" : 3
+    },
+    {
+      "question" : "Indonesia : Belanda",
+      "options" : ["Malaysia : Inggris","India : Spanyol","Australia : Selandia Baru","Singapura : China","Brunei Darussalam : Timor Leste"],
+      "answer" : 0
+    },
+    {
+      "question" : "Karnivora : Singa",
+      "options" : ["Reptilia : Buaya","Manusia : Omnivora","Herbivora : Sapi","Omnivora : Harimau","Herbivora : Omnivora"],
+      "answer" : 2
+    },
+    {
+      "question" : "Norwegia : Luxemburg",
+      "options" : ["Vietnam : Indonesia","Australia : Inggris","Brazil : Spanyol","Iraq : Australia","Chili : China"],
+      "answer" : 0
+    },
+    {
+      "question" : "Penyelam laut dalam : Tabung Oksigen",
+      "options" : ["Petani : Kerbau","Perampok : Topeng muka","Penerjun payung : Parasut","Polisi : Mobil patroli","Burung : Sayap"],
+      "answer" : 2
+    },
+    {
+      "question" : "Bodoh : Idiot",
+      "options" : ["Pintar : Pandai","Pandai : Jenius","Dungu : Cerdas","Rajin : Pintar","Jenius : Cerdas"],
+      "answer" : 1
+    },
+    {
+      "question" : "Bola lampu : Thomas A. Edison",
+      "options" : ["Mesin uap : James Watt","Telepon : Alexander George","Pesawat : Copernicus","Radio : Pierre Curie","Listrik : Michael Moorer"],
+      "answer" : 0
+    },
+    {
+      "question" : "Gading : Gajah",
+      "options" : ["Taring : Macan","Gigi : Singa","Kuping : Kelinci","Kulit : Ular","Hidung : Bekantan"],
+      "answer" : 3
+    },
+    {
+      "question" : "Programmer : Software",
+      "options" : ["Komputer : Windows XP","Sinetron : Artis","Ketik : Skripsi","Program : Linux","Sutradara : Film"],
+      "answer" : 4
+    },
+    {
+      "question" : "Bulan : Bumi \nBumi : ",
+      "options" : ["Tata surya","Planet","Bintang","Matahari","Bulan"],
+      "answer" : 3
+    },
+    {
+      "question" : "Elang : Kelinci \nUlar : ",
+      "options" : ["Ikan","Singa","Ulat","Tikus","Gagak"],
+      "answer" : 3
+    },
+    {
+      "question" : "Platina : Logam \nPermata : ",
+      "options" : ["Intan","Batu","Emas","Safir","Akik"],
+      "answer" : 1
+    },
+    {
+      "question" : "Manusia : Otak\nKomputer : ",
+      "options" : ["Memori","Disket","Processor","Windows 98","Monitor"],
+      "answer" : 2
+    },
+    {
+      "question" : "Sinonim Laik",
+      "options" : ["Baik","Pintar","Layak","Semakin","Buruk"],
+      "answer" : 2
+    },
+    {
+      "question" : "Sinonim Fantastis",
+      "options" : ["Ampuh","Sakti","Bagus","Luar biasa","Kesenangan"],
+      "answer" : 3
+    },
+    {
+      "question" : "Sinonim Artifisial",
+      "options" : ["Alami","Campuran","Murni","Buatan","Pabrikan"],
+      "answer" : 3
+    },
+    {
+      "question" : "Sinonim Panorama",
+      "options" : ["Penglihatan","Pemandangan","Melihat","Memandang","Tontonan"],
+      "answer" : 1
+    },
+    {
+      "question" : "Sinonim Anonim",
+      "options" : ["Nama singkat","Singakatan","Kepanjangan dari","Tanpa nama","Nama kecil"],
+      "answer" : 3
+    },
+    {
+      "question" : "Sinonim Pandir",
+      "options" : ["Agak pintar","Bodoh","Pandai hadir","Tidak Jenius","Pemandangan"],
+      "answer" : 1
+    },
+    {
+      "question" : "Sinonim Efektif",
+      "options" : ["Manjur","Tepat sasaran","Tepat waktu","Hemat","Efisien"],
+      "answer" : 0
+    },
+    {
+      "question" : "Sinonim Egaliter",
+      "options" : ["Suka memerintah","Otoriter","Sederajat","Militer","Tentara"],
+      "answer" : 2
+    },
+    {
+      "question" : "Sinonim Intermediari",
+      "options" : ["Sales","Tidak susah","Cukup","Perantara","Terus terang"],
+      "answer" : 3
+    },
+    {
+      "question" : "Sinonim Faksi",
+      "options" : ["Partai","Perpecahan","Golongan","Pendapat","Pandangan"],
+      "answer" : 2
+    },
+    {
+      "question" : "Antonim Landai",
+      "options" : ["Datar","Curam","Sedang","Luas","Lapang"],
+      "answer" : 1
+    },
+    {
+      "question" : "Antonim Enmity",
+      "options" : ["Permusuhan","Hubungan","Pertengkaran","Amity","Perseteruan"],
+      "answer" : 3
+    },
+    {
+      "question" : "Antonim Konvergen",
+      "options" : ["Bercabang","Memusat","Pusat","Arah","Cekung"],
+      "answer" : 0
+    },
+    {
+      "question" : "Antonim Konveks",
+      "options" : ["Cembung","Bundar","Kompleks","Sederhana","Cekung"],
+      "answer" : 4
+    },
+    {
+      "question" : "Antonim Eternal",
+      "options" : ["Abadi","Selamanya","Seterusnya","Fana","Lama"],
+      "answer" : 3
+    },
+    {
+      "question" : "Antonim Take off",
+      "options" : ["Tinggal landas","Berangkat","Landing","Turun","Hinggap"],
+      "answer" : 3
+    },
+    {
+      "question" : "Antonim Hakiki",
+      "options" : ["Majasi","Penipuan","Tidak jujur","Kewajiban","Sebentar"],
+      "answer" : 0
+    },
+    {
+      "question" : "Antonim Absurd",
+      "options" : ["Mengada-ada","Tidak mustahil","Absen","Hadir","Tidak hilang"],
+      "answer" : 1
+    },
+    {
+      "question" : "Antonim Sederhana",
+      "options" : ["Kompleks","Simpel","Banyak","Tinggi","Mewah"],
+      "answer" : 0
+    },
+    {
+      "question" : "Antonim Ad Hoc",
+      "options" : ["Khusus","Panitia","Komite","General","Spesial"],
+      "answer" : 3
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Minister of Defence","Minister of Economy","Prime Minister","Minister of Trade","Foreign Affair Minister"],
+      "answer" : 2
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Borobudur","Pencak Silat","Monas","Batik","Karate"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Aqua","L'eau","Air","Water","La Terre"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Huawei","Nokia","Sagem","Samsung","Fren"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Toyota","Suzuki","Mercedes","Honda","Xenia"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["LA Galaxy","AC Milan","LA Lakers","Arsenal","Sriwijaya FC"],
+      "answer" : 2
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Argentina","Bolivia","Uruguay","Venezuela","Guyana"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["India","Malaysia","Australia","Jerman","Brunei Darussalam"],
+      "answer" : 3
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Paus","Manusia","Kera","Lumba-lumba","Bandeng"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mana yang tidak masuk dalam kelompoknya ?",
+      "options" : ["Jeruk Bali","Semangka","Melon","Salak Magelang","Markisa"],
+      "answer" : 3
+    }
+
+  ],
+  "score" : 0
+}

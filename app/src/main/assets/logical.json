@@ -1,0 +1,195 @@
+{
+  "quizzes" : [
+    {
+      "question" : "Semua mahasiswa Perguruan Tinggi memiliki Nomor Induk Mahasiswa. Andi seorang mahasiswa. Jadi,",
+      "options" : ["Andi mungkin memiliki nomor induk mahasiswa",
+        "Belum tentu Andi memiliki nomor induk mahasiswa",
+        "Andi memiliki nomor induk mahasiswa",
+        "Andi tidak memiliki nomor induk mahasiswa",
+        "Tidak dapat ditarik kesimpulan"],
+      "answer" : 2
+    },
+    {
+      "question" : "Sebagian perajin tempe mengeluhkan harga kedelai naik. \nPak Anto seorang perajin tempe. Jadi,",
+      "options" : ["Pak Anto pasti mengeluhkan harga kedelai naik.",
+      "Pak Anto tidak mengeluhkan harga kedelai naik.",
+      "Harga kedelai bukanlah keluhan Pak Anto",
+      "Pak Anto mungkin ikut mengeluhkan harga kedelai naik",
+      "Harga kedelai naik atau tidak, pak Anto tetap mengeluh"],
+      "answer" : 3
+    },
+    {
+      "question" : "Semua pemain sepakbola yang berkebangsaan Italia berwajah tampan. \nJohn adalah pemain sepakbola berkebangsaan Inggris. Jadi,",
+      "options" : ["John bukanlah pemain sepakbola yang tampan","John adalah pemain sepakbola yang tampan",
+        "Meskipun bukan berkebangsaan Italia, John pasti berwajah tampan","Mustahil John berwajah tampan",
+      "Tidak dapat ditarik kesimpulan"],
+      "answer" : 4
+    },
+    {
+      "question" : "Sebagian orang yang berminat menjadi politikus hanya menginginkan harta dan tahta. \nRosyid tidak berminat menjadi politikus.",
+      "options" : ["Rosyid tidak menginginkan harta dan tahta.",
+        "Tahta bukanlah keinginan Rosyid, tapi harta mungkin ya.",
+      "Rosyid menginginkan tahta tapi tidak berminat menjadi politikus.",
+      "Rosyid tidak ingin menjadi politikus karena sudah kaya dan punya tahta",
+      "Tidak dapat ditarik kesimpulan"],
+      "answer" : 4
+    },
+    {
+      "question" : "Permen yang dibungkus dalam kemasan menarik sangat laris terjual. \nPermen X dibungkus dalam kemasan berwarna merah menyala. \nMenurut anak-anak, warna merah menyala sangatlah menarik.",
+      "options" : ["Permen X kurang laris terjual di kalangan anak-anak",
+      "Permen X tidak laku terjual di kalangan orang dewasa","Permen X laris terjual",
+        "Permen X laris terjual di kalangan anak-anak","Tidak dapat ditarik kesimpulan"],
+      "answer" : 3
+    },
+    {
+      "question" : "Mister A adalah seorang yang jenius. \nMister A seorang penemu. \nSemua penemu adalah kreatif. \nMister B juga seorang penemu.",
+      "options" : ["Mister B seorang yang jenius","Mister B belum tentu kreatif",
+        "Mister A dan Mister B sama-sama jenius dan kreatif","Mister B pasti kreatif. Dan belum tentu jenius",
+      "Mister A pasti jenius dan belum tentu kreatif"],
+      "answer" : 3
+    },
+    {
+      "question" : "Ivan lebih ringan beratnya daripada Wawan. \nAndika lebih berat daripada wawan.",
+      "options" : ["Wawan adalah yang paling ringan dari ketiganya",
+      "Ivan mungkin saja sama beratnya dengan andika",
+      "Jika wawan memiliki berat 65 Kg. Mustahil andika memiliki berat lebih dari 65 Kg.",
+      "Jika andika memiliki berat 65 Kg. Mustahil ivan memiliki berat lebih dari 65 Kg.",
+      "Jika ivan memiliki berat 65Kg. Mungkin saja andika memiliki berat lebih dari 65 Kg"],
+      "answer" : 3
+    },
+    {
+      "question" : "Jika saya tidak punya tugas kuliah maka saya membantu Ibu berjualan pakaian di pasar.",
+      "options" : ["Saya saat ini memiliki tugas kuliah dan pasti akan membantu ibu di pasar",
+      "Sekarang saya tidak punya tugas kuliah, jadi saya tak perlu ke pasar membantu Ibu berjualan pakaian",
+      "Saya sekarang ada di pasar membantu Ibu berjualan pakaian, karena tidak punya tugas kuliah",
+      "Saya tidak membantu ibu di pasar karena saya tidak punya tugas kuliah",
+      "Sebagai anak berbakti, meskipun punya tugas kuliah, saya tetap membantu ibu di pasar"],
+      "answer" : 2
+    },
+    {
+      "question" : "Tidak ada ikan lele yang punya sisik. \nIkan lele memiliki sungut.",
+      "options" : ["Ikan yang tidak bersisik pasti punya sungut",
+      "Ikan yang bersungut pasti tidak punya sisik",
+      "Sisik ada hubungannya dengan sungut",
+      "Andai lele punya sisik, maka tidak akan punya sungut",
+      "Tidak bisa ditarik kesimpulan"],
+      "answer" : 4
+    },
+    {
+      "question" : "Mustahil seorang wanita punya jenggot. Tidak setiap pria punya jenggot. A berada di kamar gelap dan hanya terlihat dagunya yang tidak berjenggot. Maka",
+      "options" : ["A bukan pria","Mustahil A adalah seorang wanita","A pasti seorang pria","A pasti seorang wanita",
+      "A bisa seorang pria dan bisa pula seorang wanita"],
+      "answer" : 4
+    },
+    {
+      "question" : "Tidak setiap anak sekolah suka berbohong kepada kedua orangtuanya bahwa dia telah mengerjakan PR. Rendy seorang anak yang selalu jujur dalam masalah apa saja dan kepada siapapun, kecuali kepada kakeknya. Kebohongan Rendy tersebut adalah sering mengatakan bahwa kakek masih terlihat muda. Maka:",
+      "options" : ["Kepada pamannya, Rendy mengatakan belum mengerjakan PR bila memang belum.",
+      "Hampir tidak pernah Rendy membohongi orangtuanya mengenai PR",
+      "Rendy hanya pernah membohongi kakaknya mengenai PR",
+      "Kakek Rendy masih terlihat muda",
+      "Rendy sangat disayang orangtuanya karena selalu berkata jujur"],
+      "answer" : 0
+    },
+    {
+      "question" : "Pagi ini Heldy punya rencana. Dia ingin mengembalikan CD Linux kepada Hardoyo setelah merasakan kelezatan soto daging di Jalan Perintis kemerdekaan 75 Solo. Heldy ingin makan 2 pisang goreng hangat di kantin Bu Sum di dekat kampus UNS Solo. Setelah makan pisang dia tidak mau minum es teh di kantin Bu Sum tapi ingin minum es buah di dekat stadion Manahan Solo. Sesudah dari Manahan, Heldy menuju Jalan perintis kemerdekaan.\nKesimpulannya:",
+      "options" : ["Heldy pertama-tama akan pergi ke Jalan Perintis kemerdekaan",
+      "Sebelum ke Stadion Manahan, heldy ingin mengembalikan CD kepada Hardoyo sebab takut terlupa",
+      "Setelah makan soto, Heldy minum es buah di dekat Stadion Manahan",
+      "Pisang adalah makanan pertama yang akan disantap Heldy",
+      "Soto adalah makanan pertama yang akan disantap Heldy"],
+      "answer" : 3
+    },
+    {
+      "question" : "Azkia ingin nikah sebelum punya rumah. Ingin dapat kerja sebelum nikah. Setelah dapat kerja ingin punya usaha sambilan. Ingin punya anak setelah punya rumah. Ingin menikah setelah punya usaha sambilan. Dan ingin punya usaha sambilan sebelum punya rumah. Mana urutan yang tepat ?",
+      "options" : [" Dapat kerja – nikah – punya rumah – usaha sambilan – punya anak",
+        "Dapat kerja – nikah – usaha sambilan – punya rumah – punya anak",
+      "Usaha sambilan – dapat kerja – nikah – punya anak – punya rumah",
+      "Punya anak – nikah – dapat kerja – usaha sambilan – punya rumah",
+      "Dapat kerja – usaha sambilan – nikah – punya rumah – punya anak"],
+      "answer" : 4
+    },
+    {
+      "question" : "Faiq adalah seorang anak yang sulit disuruh makan. Faiq bersedia makan nasi jika sudah dibelikan makanan favoritnya. Jika sudah punya permen coklat,  Faiq bisa melupakan roti keju. Roti keju lebih disukai Faiq daripada es krim sehingga Faiq bersedia menukar es krim dengan roti keju. Kesukaan Faiq terhadap es krim sama besarnya dengan kesukaannya terhadap es jus durian. Dan Faiq lebih menyukai roti keju daripada mangga arum manis. Makanan paling favorit apakah yang bisa dibelikan Ibu untuk Faiq agar bersedia makan nasi ?",
+      "options" : ["Roti keju","Mangga arum manis","Es krim","Permen Coklat","Jus Durian"],
+      "answer" : 3
+    },
+    {
+      "question" : "Kejujuran S tidak sebaik D. Terkadang M kurang jujur, tapi sesungguhnya dia masih lebih jujur daripada R. B lebih suka berbohong daripada H. D cukup jujur, tapi secara umum M lebih jujur daripada D. Dan I sama jujurnya dengan K. D lebih jujur daripada H dan K. Siapakah diantara mereka yang paling jujur ?",
+      "options" : ["K","H","I","D","M"],
+      "answer" : 4
+    },
+    {
+      "question" : "Sebagian siswa SDN 02 suka bakso. Semua siswa SDN02 suka soto. Jadi...",
+      "options" : ["Siswa SDN 02 yang suka bakso pasti juga suka soto",
+      "Siswa SDN 02 yang tidak suka soto suka bakso",
+      "Belum tentu Siswa SDN 02 yang tidak suka bakso suka soto",
+      "Siswa SDN 02 yang suka soto pastilah juga suka bakso",
+      "Selain suka bakso pastilah ada sebagian Siswa SDN 02 yang suka soto"],
+      "answer" : 0
+    },
+    {
+      "question" : "Bila makan di warung Mbak Via harus bayar kontan. Erick lapar dan tidak punya uang siang ini...",
+      "options" : ["Erick harus cari akal supaya bisa berhutang di warung Mbak Via","Mbak Via pelit tidak mau dihutang",
+      "Erick boleh kok berhutang karena sudah kenal akrab dengan Mbak Via sang pemilik warung",
+      "Erick bukanlah saudara Mbak Via, jadi tidak boleh makan dengan cara berhutang",
+      "Erick tidak dapat makan di warung Mbak Via siang ini"],
+      "answer" : 4
+    },
+    {
+      "question" : "Bowo menyukai program komputer Delphi. Ageng menyukai program komputer Visual Basic",
+      "options" : ["Karena gengsi, Bowo tidak memilih program Visual Basic karena Ageng sudah memilihnya",
+      "Ageng ingin berbeda dari Bowo dalam hal penguasaan program komputer",
+      "Ageng dan Bowo saling bersaing menjadi programmer komputer yang paling handal di kotanya",
+      "Ageng tidak suka Delphi untuk menjaga citra dirinya agar tak ingin dikira ikut-ikutan Bowo",
+      "Tidak dapat diambil kesimpulan"],
+      "answer" : 4
+    },
+    {
+      "question" : "Semua mammalia bernafas dengan paru-paru\nIkan salmon adalah mammalia\nJadi, ikan salmon bernafas dengan paru-paru",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 2
+    },
+    {
+      "question" : "Pabrik ”Bangun Jaya” hanya memberikan kenaikan gaji karyawan maksimal 2 kali dalam setahun\nNina adalah staf departemen pemasaran yang sangat berprestasi di Pabrik ”Bangun Jaya”\nJadi, Nina bisa mendapatkan kenaikan gaji lebih dari dua kali dalam setahun.",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 4
+    },
+    {
+      "question" : "Semua manusia berhati baik\nIbu Amanda adalah manusia\nJadi, Ibu Amanda berhati baik",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 1
+    },
+    {
+      "question" : "Setiap hari minggu SD Al-Hidayah libur\nHari ini hari minggu\nJadi, hari ini pasti SD Al-Hidayah libur",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 0
+    },
+    {
+      "question" : "Semua pejabat Pemda mendapatkan mobil dinas\nPak Rahmat adalah mantan pejabat Pemda\nJadi, Pak Rahmat tidak lagi mendapatkan mobil dinas",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 0
+    },
+    {
+      "question" : "Ikan adalah binatang yang bernafas dengan insang\nPaus adalah binatang yang bernafas dengan insang\nJadi, Paus adalah ikan",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 2
+    },
+    {
+      "question" : "Ukuran bunga tidak lebih besar daripada piring makan \nRafflessia Arnoldi adalah sejenis bunga \nRafflessia Arnoldi ukurannya tidak lebih besar daripada piring makan",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 1
+    },
+    {
+      "question" : "Segala tentang hewan dapat dipelajari dalam ilmu Animologi.\nBurhan tertarik mempelajari kehidupan macan, buaya,singa dan hewan lainnya\nBurhan harus mempelajari ilmu Animologi",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 1
+    },
+    {
+      "question" : "Dono membenci barang asing dan orang asing \nMembenci barang asing atau orang asing disebut xenophobia \nDono termasuk seorang xenophobi",
+      "options" : ["benar","salah pada pernyataan pertama","salah pada pernyataan kedua","pernyataan pertama dan kedua salah","salah pada kesimpulan"],
+      "answer" : 0
+    }
+
+  ],
+  "score" : 0
+}

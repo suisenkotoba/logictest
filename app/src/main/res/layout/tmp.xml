@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/windowBackground">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:drawableLeft="@drawable/ic_done_24dp"
+            android:drawableTint="@android:color/holo_green_light"
+            android:drawablePadding="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/wright" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:drawableLeft="@drawable/ic_clear_24dp"
+            android:drawableTint="@android:color/holo_red_dark"
+            android:drawablePadding="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/wrong" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/sum"
+            android:layout_margin="@dimen/activity_horizontal_margin"/>
+
+        <RatingBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="75dp"
+            android:paddingRight="75dp"
+            android:id="@+id/ratingBar" />
+    </LinearLayout>
+</LinearLayout>

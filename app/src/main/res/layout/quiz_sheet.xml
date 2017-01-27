@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="fill_horizontal|top"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView android:id="@+id/head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="?actionBarSize"
+            android:background="?colorPrimary"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:textSize="11pt"
+            android:textStyle="bold"
+            android:textColor="@color/textColorPrimary" />/>
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/quest"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:textSize="7pt"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imagequest"
+                android:contentDescription="@string/pic"
+                android:layout_marginTop="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:visibility="gone"
+                />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:id="@+id/opts">
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optA"
+                    android:textColor="@android:color/darker_gray"
+                    android:layout_gravity="left|top"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="@color/colorPrimary" />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optB"
+                    android:textColor="@android:color/darker_gray"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="@color/colorPrimary"/>
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optC"
+                    android:textColor="@android:color/darker_gray"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="@color/colorPrimary"/>
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optD"
+                    android:textColor="@android:color/darker_gray"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="@color/colorPrimary"/>
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/optE"
+                    android:textColor="@android:color/darker_gray"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="@color/colorPrimary"/>
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+
+    <FrameLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="fill_horizontal">
+
+        <ImageButton android:id="@+id/back"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/arrow_back"
+            android:tint="@color/colorPrimary"
+            android:backgroundTint="@color/windowBackground"
+            android:layout_gravity="center_vertical|start"
+            android:contentDescription="@string/ar_back"
+            android:theme="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+            android:visibility="invisible"
+            android:onClick="clickThis"/>
+
+        <ImageButton android:id="@+id/forward"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/arrow_forward"
+            android:tint="@color/colorPrimary"
+            android:backgroundTint="@color/windowBackground"
+            android:contentDescription="@string/ar_frd"
+            android:theme="@style/Widget.AppCompat.Light.ActionButton.Overflow"
+            android:layout_gravity="right|center_vertical"
+            android:onClick="clickThis"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/done"
+            android:src="@drawable/ic_check_circle_24dp"
+            android:tint="@color/colorPrimary"
+            android:backgroundTint="@color/windowBackground"
+            android:layout_gravity="right|center_vertical"
+            android:contentDescription="@string/ext"
+            android:visibility="invisible"
+            android:onClick="clickThis"
+            />
+
+
+    </FrameLayout>
+
+</LinearLayout>

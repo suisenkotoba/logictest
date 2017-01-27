@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center"
+        android:contentDescription="@string/icon_app"
+        android:src="@drawable/icon"
+        android:gravity="center"
+        android:layout_marginBottom="120dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/boku"
+        android:textColor="@color/textColorPrimary"
+        android:textStyle="bold"
+        android:textSize="10pt"
+        android:typeface="sans"
+        android:id="@+id/text"
+        android:gravity="center|fill_horizontal|center_horizontal|bottom|end" />
+</LinearLayout>

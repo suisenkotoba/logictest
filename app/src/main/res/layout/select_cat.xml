@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:gravity="center_vertical|center_horizontal">
+
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:layout_gravity="center"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/cat1"
+        android:id="@+id/btn_cat1"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@color/colorAccent"
+        android:textColor="@color/textColorPrimary"
+        android:theme="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:textSize="9pt"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/cat2"
+        android:id="@+id/btn_cat2"
+        android:layout_gravity="center_horizontal|top"
+        android:gravity="center"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/textColorPrimary"
+        android:theme="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:textSize="9pt"
+        android:textStyle="bold" />
+</LinearLayout>
+
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/cat3"
+        android:id="@+id/btn_cat3"
+        android:gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/textColorPrimary"
+        android:theme="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:textSize="9pt"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/cat4"
+        android:id="@+id/btn_cat4"
+        android:gravity="center"
+        android:background="@color/colorAccent"
+        android:textColor="@color/textColorPrimary"
+        android:theme="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:textSize="9pt"
+        android:textStyle="bold"/>
+
+</LinearLayout>
+</LinearLayout>

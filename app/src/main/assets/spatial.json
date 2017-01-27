@@ -1,0 +1,130 @@
+{
+  "quizzes" : [
+    {
+      "question" : "no1",
+      "options" :["no1a", "no1b", "no1c", "no1d", "no1e"],
+      "answer" : 1
+    },
+    {
+      "question" : "no2",
+      "options" :["no2a", "no2b", "no2c", "no2d", "no2e"],
+      "answer" : 0
+    },
+    {
+      "question" : "no3",
+      "options" :["no3a", "no3b", "no3c", "no3d", "no3e"],
+      "answer" : 4
+    },
+    {
+      "question" : "no4",
+      "options" :["no4a", "no4b", "no4c", "no4d", "no4e"],
+      "answer" : 2
+    },
+    {
+      "question" : "no5",
+      "options" :["no5a", "no5b", "no5c", "no5d", "no5e"],
+      "answer" : 1
+    },
+    {
+      "question" : "no6",
+      "options" :["no6a","no6b","no6c","no6d","no6e"],
+      "answer" : 0
+    },
+    {
+      "question" : "no7",
+      "options" :["no7a","no7b","no7c","no7d","no7e"],
+      "answer" : 2
+    },
+    {
+      "question" : "no8",
+      "options" :["no8a","no8b","no8c","no8d","no8e"],
+      "answer" : 1
+    },
+    {
+      "question" : "no9",
+      "options" :["no9a","no9b","no9c","no9d","no9e"],
+      "answer" : 4
+    },
+    {
+      "question" : "no10",
+      "options" :["no10a","no10b","no10c","no10d","no10e"],
+      "answer" : 1
+    },
+    {
+      "question" : "Carilah gambar yang bukan kelompoknya!",
+      "options" :["no11a","no11b","no11c","no11d","no11e"],
+      "answer" : 3
+    },
+    {
+      "question" : "Carilah gambar yang bukan kelompoknya!",
+      "options" :["no12a","no12b","no12c","no12d","no12e"],
+      "answer" : 3
+    },
+    {
+      "question" : "Carilah gambar yang bukan kelompoknya!",
+      "options" :["no13a","no13b","no13c","no13d","no13e"],
+      "answer" : 2
+    },
+    {
+      "question" : "Carilah gambar yang bukan kelompoknya!",
+      "options" :["no14a","no14b","no14c","no14d","no14e"],
+      "answer" : 3
+    },
+    {
+      "question" : "Carilah gambar yang bukan kelompoknya!",
+      "options" :["no15a","no15b","no15c","no15d","no15e"],
+      "answer" : 2
+    },
+    {
+      "question" : "no16",
+      "options" :["no16a","no16b","no16c","no16d","no16e"],
+      "answer" : 4
+    },
+    {
+      "question" : "no17",
+      "options" :["no17a","no17b","no17c","no17d","no17e"],
+      "answer" : 0
+    },
+    {
+      "question" : "no18",
+      "options" :["no18a","no18b","no18c","no18d","no18e"],
+      "answer" : 3
+    },
+    {
+      "question" : "no19",
+      "options" :["no19a","no19b","no19c","no19d","no19e"],
+      "answer" : 4
+    },
+    {
+      "question" : "no20",
+      "options" :["no20a","no20b","no20c","no20d","no20e"],
+      "answer" : 1
+    },
+    {
+      "question" : "no21",
+      "options" :["no21a", "no21b", "no21c", "no21d", "no21e"],
+      "answer" : 1
+    },
+    {
+      "question" : "no22",
+      "options" :["no22a", "no22b", "no22c", "no22d", "no22e"],
+      "answer" : 2
+    },
+    {
+      "question" : "no23",
+      "options" :["no23a", "no23b", "no23c", "no23d","no23e"],
+      "answer" : 2
+    },
+    {
+      "question" : "no24",
+      "options" :["no24a", "no24b", "no24c", "no24d", "no24e"],
+      "answer" : 3
+    },
+    {
+      "question" : "no25",
+      "options" :["no25a", "no25b", "no25c", "no25d", "no25e"],
+      "answer" : 3
+    }
+  ],
+  "score" : 0
+}
